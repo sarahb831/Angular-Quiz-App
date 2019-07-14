@@ -1,0 +1,87 @@
+[
+	{
+		"label": "Into which Pokemon does Picachu evolve?",
+		"choices": [	
+			{
+				"value": "Pichu",
+				"correct": false
+			},
+			{
+				"value":	"Charizard",
+				"correct": false
+			},
+			{
+				"value": "Raichu",
+				"correct": true
+			}
+		]
+	},
+	{
+		"label": "To what type of attacks are Flying type Pokemon immune?",
+		"choices": [	
+			{
+				"value": "Normal",
+				"correct": false
+			},
+			{
+				"value":	"Ground",
+				"correct": true
+			},
+			{
+				"value": "Water",
+				"correct": false
+			}
+		]
+	},
+	{
+		"label": "Which is the first Pikachu that Ash caught?",
+		"choices": [	
+			{
+				"value": "Caterpie",
+				"correct": true
+			},
+			{
+				"value":	"Picachu",
+				"correct": false
+			},
+			{
+				"value": "Gary",
+				"correct": false
+			}
+		]
+	},	
+	{
+		"label": "What color is Mew?",
+		"choices": [	
+			{
+				"value": "Orange",
+				"correct": false
+			},
+			{
+				"value":	"Pink",
+				"correct": true
+			},
+			{
+				"value": "Yellow",
+				"correct": false
+			}
+		]
+	},
+	{
+		"label": "Which is the heaviest Pokemon?",
+		"choices": [	
+			{
+				"value": "Mega Metagross",
+				"correct": false
+			},
+			{
+				"value":	"Celesteela",
+				"correct": true
+			},
+			{
+				"value": "Mudsdale",
+				"correct": false
+			}
+		]
+	}
+]	
