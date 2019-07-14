@@ -1,34 +1,34 @@
 [
 	{
-		"label": "Into which Pokemon does Picachu evolve?",
+		"label": "How many original Pokemon are there?",
 		"choices": [	
 			{
-				"value": "Pichu",
+				"value": "51",
 				"correct": false
 			},
 			{
-				"value":	"Charizard",
+				"value":	"101",
 				"correct": false
 			},
 			{
-				"value": "Raichu",
+				"value": "151",
 				"correct": true
 			}
 		]
 	},
 	{
-		"label": "To what type of attacks are Flying type Pokemon immune?",
+		"label": "What type is super effective against flying?",
 		"choices": [	
 			{
-				"value": "Normal",
+				"value": "Water",
 				"correct": false
 			},
 			{
-				"value":	"Ground",
+				"value":	"Electric",
 				"correct": true
 			},
 			{
-				"value": "Water",
+				"value": "Fire",
 				"correct": false
 			}
 		]
@@ -68,18 +68,18 @@
 		]
 	},
 	{
-		"label": "Which is the heaviest Pokemon?",
+		"label": "What is the evil organization that steals Pokemon?",
 		"choices": [	
 			{
-				"value": "Mega Metagross",
+				"value": "Team Starship",
 				"correct": false
 			},
 			{
-				"value":	"Celesteela",
+				"value":	"Team Rocket",
 				"correct": true
 			},
 			{
-				"value": "Mudsdale",
+				"value": "Team Galaxy",
 				"correct": false
 			}
 		]
