@@ -1,17 +1,19 @@
 <div class="welcome">
-    <h2>Welcome to our quizzes!</h2>
+    <h1>Welcome to our quizzes!</h1>
     <div class="quiz-list" *ngFor="let q of quizzes">
         <mat-card class="quiz">
-            <mat-card-header>
-                <mat-card-title>{{q.label}}</mat-card-title>
-            </mat-card-header>
+            <mat-card-content>
+                <h2>{{q.label}}</h2>
+            </mat-card-content>
             <mat-card-content>
                 {{q.description}}
             </mat-card-content>
             <mat-card-actions>
-                <a routerLink="/{{q.name}}" class="btn btn-primary">Select</a>
+                <a routerLink="/{{q.name}}" mat-fab color="primary">
+                   
+                    Select
+                </a>
             </mat-card-actions>
         </mat-card>
-       
     </div>
 </div>
