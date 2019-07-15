@@ -5,6 +5,8 @@ import { HttpClientModule } from '@angular/common/http';
 import { ReactiveFormsModule } from '@angular/forms';
 import { RouterModule, Routes } from '@angular/router';
 import { MatCardModule } from '@angular/material';
+import { MatButtonModule } from '@angular/material/button';
+import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 // automatically added from ng add prompt response
 import { NoopAnimationsModule } from '@angular/platform-browser/animations'; 
 
@@ -36,6 +38,8 @@ const appRoutes: Routes = [
     ReactiveFormsModule,
     RouterModule.forRoot(appRoutes),
     [ MatCardModule],
+    [ MatButtonModule ],
+    [ MatProgressSpinnerModule ],
     NoopAnimationsModule
   ],
   providers: [],
