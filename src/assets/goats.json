@@ -76,11 +76,11 @@
 			},
 			{
 				"value":	"Nigerian Dwarf",
-				"correct": true
+				"correct": false
 			},
 			{
 				"value": "Myotonic",
-				"correct": false
+				"correct": true
 			}
 		]
 	}
