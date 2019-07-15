@@ -7,7 +7,7 @@
     </app-question-form>
 
     <button
-      class="btn btn-success"
+      mat-fab color="primary"
       (click)="nextOrViewResults()"
       [disabled]="!answers.values[currentQuestionIndex]"
     >{{currentQuestionIndex === quiz.questions.length - 1 ? 'View results' : 'Next'}}
