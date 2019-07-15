@@ -1,0 +1,16 @@
+.quiz {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #8aebe7;
+    z-index: 5;
+    text-align: center;
+}
+
+.quiz app-results,
+.button {
+    top-margin: 10px;
+    text-align: center;
+}
