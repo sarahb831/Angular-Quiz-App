@@ -12,11 +12,11 @@ import { RouteConfigLoadEnd } from '@angular/router';
   styleUrls: ['./questions.component.scss']
 })
 export class QuestionsComponent implements OnInit {
-  private quiz: Quiz;
-  private answers: Answers;
-  private questions: Question[];
-  private currentQuestionIndex: number;
-  private showResults=false;
+  public quiz: Quiz;
+  public answers: Answers;
+  public questions: Question[];
+  public currentQuestionIndex: number;
+  public showResults=false;
 
   // inject active route & questions service
   constructor(private route: ActivatedRoute, 
