@@ -1,0 +1,87 @@
+[
+	{
+		"label": "How many original Pokemon are there?",
+		"choices": [	
+			{
+				"value": "51",
+				"correct": false
+			},
+			{
+				"value":	"101",
+				"correct": false
+			},
+			{
+				"value": "151",
+				"correct": true
+			}
+		]
+	},
+	{
+		"label": "What type is super effective against flying?",
+		"choices": [	
+			{
+				"value": "Water",
+				"correct": false
+			},
+			{
+				"value":	"Electric",
+				"correct": true
+			},
+			{
+				"value": "Fire",
+				"correct": false
+			}
+		]
+	},
+	{
+		"label": "Which is the first Pikachu that Ash caught?",
+		"choices": [	
+			{
+				"value": "Caterpie",
+				"correct": true
+			},
+			{
+				"value":	"Picachu",
+				"correct": false
+			},
+			{
+				"value": "Gary",
+				"correct": false
+			}
+		]
+	},	
+	{
+		"label": "What color is Mew?",
+		"choices": [	
+			{
+				"value": "Orange",
+				"correct": false
+			},
+			{
+				"value":	"Pink",
+				"correct": true
+			},
+			{
+				"value": "Yellow",
+				"correct": false
+			}
+		]
+	},
+	{
+		"label": "What is the evil organization that steals Pokemon?",
+		"choices": [	
+			{
+				"value": "Team Starship",
+				"correct": false
+			},
+			{
+				"value":	"Team Rocket",
+				"correct": true
+			},
+			{
+				"value": "Team Galaxy",
+				"correct": false
+			}
+		]
+	}
+]	

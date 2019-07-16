@@ -1,0 +1,87 @@
+[
+	{
+		"label": "What is Hello in French?",
+		"choices": [	
+			{
+				"value": "Au revoir",
+				"correct": false
+			},
+			{
+				"value":	"Bonjour",
+				"correct": true
+			},
+			{
+				"value": "Ciao",
+				"correct": false
+			}
+		]
+	},
+	{
+		"label": "What is Goodbye in French?",
+		"choices": [	
+			{
+				"value": "Au revoir",
+				"correct": false
+			},
+			{
+				"value":	"Bonjour",
+				"correct": true
+			},
+			{
+				"value": "Bella",
+				"correct": false
+			}
+		]
+	},
+	{
+		"label": "What is Yes in French?",
+		"choices": [	
+			{
+				"value": "Oui",
+				"correct": true
+			},
+			{
+				"value":	"Si",
+				"correct": false
+			},
+			{
+				"value": "Non",
+				"correct": false
+			}
+		]
+	},	
+	{
+		"label": "What is Thank You in French?",
+		"choices": [	
+			{
+				"value": "S'il vous plait",
+				"correct": false
+			},
+			{
+				"value":	"Merci",
+				"correct": true
+			},
+			{
+				"value": "Marron",
+				"correct": false
+			}
+		]
+	},
+	{
+		"label": "What is Please in French?",
+		"choices": [	
+			{
+				"value": "Merci",
+				"correct": false
+			},
+			{
+				"value":	"S'il vous plait",
+				"correct": true
+			},
+			{
+				"value": "Bonjour",
+				"correct": false
+			}
+		]
+	}
+]	

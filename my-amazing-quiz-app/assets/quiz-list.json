@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Math",
+        "name": "maths",
+        "description": "Questions about math",
+        "fileName": "maths.json"
+    },
+    {
+        "label": "French",
+        "name": "french",
+        "description": "Questions about french",
+        "fileName": "french.json"
+    },
+    {
+        "label": "Goats",
+        "name": "goats",
+        "description": "Questions about goats",
+        "fileName": "goats.json"
+    },
+    {
+        "label": "Pokemon",
+        "name": "pokemon",
+        "description": "Questions about Pokemon",
+        "fileName": "pokemon.json"
+    }
+]
